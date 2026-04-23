@@ -1,0 +1,29 @@
+<!DOCTYPE
+	 html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MHD EDVANTURE VANU</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">MHD EDVANTURE VANU</div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>স্বাগতম, আমি <span class="highlight">মোহাম্মদ হাছনাইন</span></h1>
+        <p>আমার অ্যাডভেঞ্চার দুনিয়ায় আপনাকে স্বাগতম!</p>
+        <button onclick="showAlert()">আরো জানুন</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 MHD EDVANTURE VANU | মোহাম্মদ হাছনাইন দ্বারা নির্মিত</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
